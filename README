@@ -1,0 +1,27 @@
+ELLE is a simple HTML5 and CSS generator.
+
+Motivation and design goals:
+I hate writing HTML and CSS and would rather describe a layout in english.
+My intention is to keep it as simple as possible. Initialization should create a skeletal HTML5     file and corresponding CSS file. Method invocations should create HTML elements, assign that        element a class, and generate CSS for that element.
+
+One HTML file.
+
+One CSS file.
+
+That's it.
+
+Oh and I could care less about compability with IE.
+
+HTML5 only.
+
+Deal with it.
+
+
+
+Possible some-day-features:
+
+integrate with S2JS or other scala to javascript library
+animation - possibly with/like processing??
+
+Non-Textual DSL Aspect - as in a Visual layout Language - now there's a novel idea. Or should I say mural idea.
+
